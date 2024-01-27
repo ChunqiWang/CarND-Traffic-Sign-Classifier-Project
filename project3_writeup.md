@@ -17,8 +17,8 @@ The goals / steps of this project are the following:
 [image2]: plots/TS_class_distribution.png "Train Data Distirbution"
 [image3]: plots/VS_class_distribution.png "Validation Data Distirbution"
 [image4]: plots/preprocess.png "Image Pre-process Comparison"
-[image5]: Plots/online_images_visualization.png "Online images"
-[image6]: Plots/online_images_top_5_classes.png "Softwmax Top 5"
+[image5]: plots/online_images_visualization.png "Online images"
+[image6]: plots/online_images_top_5_classes.png "Softwmax Top 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
